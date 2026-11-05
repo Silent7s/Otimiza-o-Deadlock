@@ -13,11 +13,4 @@ Link para a pagina de download do mod: https://gamebanana.com/mods/722853
 ## [Particle Pruning](https://deadlockconfig.com/#particle-pruning) By HoppCX and jcStani
 <img width="1897" height="894" alt="particles-before" src="https://github.com/user-attachments/assets/df634eb6-387d-447a-804c-154ac05006b7" />
 O que ele faz: Praticamente o mesmo do mod acima porem ele também remove efeitos de Acerto de Tiros na cabeça, remove o efeito de impacto da bala, sangue além de reduzir a qualidade do efeito do rastro do tiro é uma versão mais extrema do mod acima mas que talvez não faça muita diferença para quem tem uma maquina mediana eu recomendo mais para quem tem o Computador extremamente fraco. 
-Link para a pagina de download do mod: https://deadlockconfig.com/#particle-pruning <br>
-
-
-#Texturas
-teste 1
-
-#Hud
-teste 2
+Link para a pagina de download do mod: https://deadlockconfig.com/#particle-pruning 
